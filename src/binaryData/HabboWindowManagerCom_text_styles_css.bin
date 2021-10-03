@@ -1,0 +1,85 @@
+/* Habbo text style definitions */
+/* Note: Cascading not yet supported! */
+
+regular {
+    font-family: Volter;
+    font-size: 9;
+}
+
+small {
+    font-family: Tahoma;
+    font-size: 9;
+}
+
+italic {
+	font-family: Volter;
+    font-size: 9;
+    font-style: italic;
+}
+
+bold {
+	font-family: Volter Bold;
+	font-size: 9;
+}
+
+bold_italic {
+	font-family: Volter Bold;
+	font-size: 9;
+    font-style: italic;
+}
+
+button_regular {
+	font-family: Volter;
+    font-size: 9;
+}
+
+button_bold {
+	font-family: Volter Bold;
+    font-size: 9;
+}
+
+button_tab {
+	font-family: Volter;
+    font-size: 9;
+}
+
+header_title {
+	font-family: Volter Bold;
+    font-size: 9;
+}
+
+headline_big {
+    font-family: AntennaCond Bold;
+    font-size: 16;
+}
+
+headline_medium {
+    font-family: AntennaCond Bold;
+    font-size: 14;
+}
+
+headline_small {
+    font-family: AntennaCond Bold;
+    font-size: 12;
+}
+
+chat_name {
+	font-family: Volter Bold;
+    font-size: 9;
+}
+
+chat_speak {
+	font-family: Volter;
+    font-size: 9;
+}
+
+chat_shout {
+	font-family: Volter Bold;
+    font-size: 9;
+}
+
+chat_whisper {
+	font-family: Volter;
+    font-size: 9;
+    font-color: #888888;
+}
